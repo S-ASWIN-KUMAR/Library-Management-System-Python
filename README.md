@@ -16,7 +16,6 @@ It is a command-line interface (CLI) based application that allows users to mana
 - **Python** (Core Concepts)
 - File Handling
 - Functions and Modules
-- Object-Oriented Programming (OOP)
 - CLI-based Interaction (no GUI)
 
 🧠 Learning Outcomes
