@@ -9,7 +9,7 @@ It is a command-line interface (CLI) based application that allows users to mana
 - 🔄 Issue and return books  
 - 💰 Calculate late return fines  
 - 💾 Persistent data storage using text files  
-- 📂 Organized using Python functions and object-oriented programming
+- 📂 Organized using Python functions and modular structure
 
 🔧 Technologies Used
 
