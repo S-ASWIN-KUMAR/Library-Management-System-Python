@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Harry potter",
+    "author": "JK",
+    "category": "fantasy",
+    "quantity": 4
+  },
+  {
+    "id": 3,
+    "title": "Python Basics",
+    "author": "John Doe",
+    "category": "Programming",
+    "quantity": 3
+  },
+  {
+    "id": 4,
+    "title": "Java",
+    "author": "Mitchel",
+    "category": "education",
+    "quantity": 5
+  },
+  {
+    "id": 5,
+    "title": "Games",
+    "author": "Stuart",
+    "category": "play",
+    "quantity": 5
+  },
+  {
+    "id": 6,
+    "title": "Atomic explosion",
+    "author": "James",
+    "category": "Science",
+    "quantity": 4
+  }
+]
